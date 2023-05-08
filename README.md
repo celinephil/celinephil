@@ -17,7 +17,7 @@ I am a recent Computer Science graduate and am based in Colorado, USA.
 - 📄 Know about my experiences at [https://celinephil.github.io/resume/](https://celinephil.github.io/resume/)!
 
 ---
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect With Me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/celine-phil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="celine-phil" height="30" width="40" /></a>
 <a href="https://discord.gg/SENSEI KAI#9218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SENSEI KAI#9218" height="30" width="40" /></a>
