@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **celinephilachanh@yahoo.com**
 
-- 📄 Know about my experiences at [https://celinephil.github.io/resume/](https://celinephil.github.io/resume/).
+- 📄 Know about my experiences at [https://celinephil.github.io/resume/](https://celinephil.github.io/resume/)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
