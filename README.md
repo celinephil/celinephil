@@ -16,8 +16,6 @@ I am a recent Computer Science graduate and am based in Colorado, USA.
 
 - 📄 Know about my experiences at [https://celinephil.github.io/resume/](https://celinephil.github.io/resume/)!
 
-![Snake animation](https://github.com/celinephil/celinephil/blob/output/github-contribution-grid-snake.svg)
-
 ---
 <h3 align="left">Connect With Me</h3>
 <p align="left">
