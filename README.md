@@ -10,7 +10,7 @@
 I am a recent Computer Science graduate and am based in Colorado, USA.
 - 🔭 I’m currently working on **a personal chatbot and making updates to my event tracking mobile app!**
 
-- 🌱 I’m currently learning **TypeScript and JavaScript!**
+- 🌱 I’m currently learning **React and JavaScript!**
 
 - 📫 How to reach me: **celinephilachanh@yahoo.com**
 
