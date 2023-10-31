@@ -8,7 +8,7 @@
 
 ### About Me :
 I am a recent Computer Science graduate and am based in Colorado, USA.
-- 🔭 I’m currently working on **a personal chatbot and making updates to my event tracking mobile app!**
+- 🔭 I’m currently working on **a mobile application!:wink:**
 
 - 🌱 I’m currently learning **React and JavaScript!**
 
